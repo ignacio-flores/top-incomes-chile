@@ -1,7 +1,11 @@
 # top-incomes-chile
+
 Data and codes behind our paper: "Top Incomes in Chile: A Historical Perspective of Income Inequality (1964-2017)",
 forthcoming in the Review of Income and Wealth.
 
+<div align="center">
+<img src="screen-shot-paper.png" width="500" />  
+</div>
 
 All the tables and figures that are presented in our paper 
 can be reproduced using the STATA codes and excel data files in this repository. 
